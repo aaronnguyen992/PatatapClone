@@ -1,0 +1,19 @@
+canvas {
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	position: absolute;	
+}
+
+body, html {
+	height: 100%;
+	margin: 0 auto;
+}
+
+p {
+	position: absolute;
+	bottom: 2px;
+	color: white;
+	text-align: center;
+	width: 100%;
+}
